@@ -1,6 +1,6 @@
 # House-price-prediction-boston
 
-Build the random Forest model using scikit learn in boston data to
+Build the Random Forest model using scikit learn in boston data to
 predict &#39;Price&#39; based on other dependent variable.<br>
 <br>
 There are 14 attributes in each case of the dataset. They are:<br>
