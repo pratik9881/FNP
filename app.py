@@ -1,5 +1,5 @@
 from flask import Flask, escape, request, render_template
-import pickles
+import pickle
 
 model = pickle.load(open("final_model.pkl", 'rb'))
 
